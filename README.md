@@ -167,12 +167,16 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkargitcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=f5f0e8" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargitcs&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&text_color=f5f0e8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkargitcs&background=0d0d0d&border=1a1a1a&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8&hide_border=false" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkargitcs&background=0d0d0d&border=1a1a1a&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8&hide_border=false" width="100%"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=omkargitcs&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=omkargitcs&langs_count=4&theme=dark&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkargitcs&theme=github_dark" width="100%" />
 
 </div>
 
@@ -196,8 +200,3 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
