@@ -172,7 +172,7 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 <br/><br/>
 
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=omkargitcs&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=omkargitcs&langs_count=4&theme=dark&hide_border=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=omkargitcs&langs_count=6&hide=Vim,HTML&theme=dark&hide_border=true" />
 
 <br/><br/>
 
