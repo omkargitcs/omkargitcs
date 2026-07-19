@@ -25,7 +25,7 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 <br/>
 
 ## `01` Tech Stack
-
+<div align=center>
 <table>
 <tr><td width="130"><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=e63946"/>
@@ -53,6 +53,7 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 </table>
 
 <br/>
+</div>
 
 ## `02` Experience
 
