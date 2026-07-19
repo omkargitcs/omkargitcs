@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=header" width="100%"/>
-
-<br/>
-
 <h1>OMKAR BHALSING</h1>
 
-<code>Computer Science Undergrad  |  SVKM's Mithibai College, Mumbai  |  GPA 8.27</code>
+<code>Computer Science Undergrad  |  SVKM's Mithibai College, Mumbai  |  GPA 8.93</code>
 
 <br/><br/>
 
