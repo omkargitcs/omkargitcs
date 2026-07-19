@@ -223,27 +223,31 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 
 <br/>
 
-## `05` GitHub Stats
+## `05` Git Analytics & Performance
 
 <br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkargitcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=f5f0e8" />
+<!-- Real-time Contribution and Language Dashboards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkargitcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=f5f0e8&count_private=true" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargitcs&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&text_color=f5f0e8" />
+
+<br/><br/>
+
+<!-- Interactive Continuous Streak Engine -->
+<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargitcs&theme=dark&background=0d0d0d&ring=e63946&fire=e63946&currStreakNum=f5f0e8&sideNums=f5f0e8&sideLabels=f5f0e8&dates=a3a3a3&hide_border=true" />
+
+<br/><br/>
+
+<!-- Real-time Visitor Matrix Tracker -->
+<img src="https://komarev.com/ghpvc/?username=omkargitcs&color=e63946&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 <br/>
 
 ---
-
-<div align="center">
-
-### Open to internships and backend / software development roles.
-*If you're building something interesting, let's talk.*
-
-<br/>
 
 <a href="mailto:bhalsingom04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Reach_Out-e63946?style=for-the-badge&labelColor=1a1a1a"/></a>
 <a href="https://linkedin.com/in/omkar-bhalsing-7aa44a2b4"><img src="https://img.shields.io/badge/LINKEDIN-Connect-e63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/></a>
