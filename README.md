@@ -23,7 +23,7 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 </div>
 
 <br/>
-
+<div align="center">
 ## `01` Tech Stack
 
 <table>
@@ -53,6 +53,7 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 </table>
 
 <br/>
+</div>
 
 ## `02` Experience
 
