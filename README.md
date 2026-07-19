@@ -248,7 +248,7 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 <br/>
 
 ---
-
+<div align=center>
 <a href="mailto:bhalsingom04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Reach_Out-e63946?style=for-the-badge&labelColor=1a1a1a"/></a>
 <a href="https://linkedin.com/in/omkar-bhalsing-7aa44a2b4"><img src="https://img.shields.io/badge/LINKEDIN-Connect-e63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/></a>
 <a href="https://omkar-portfolio-cyan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-View-e63946?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a"/></a>
@@ -256,5 +256,5 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
-
+</div>
 </div>
