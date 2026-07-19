@@ -251,6 +251,5 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=4&section=footer" width="100%"/>
 </div>
 </div>
