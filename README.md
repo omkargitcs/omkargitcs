@@ -25,8 +25,7 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 <br/>
 
 ## `01` Tech Stack
-<div align="center">
-<br>
+
 <table>
 <tr><td width="130"><b>Languages</b></td><td>
 <img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=e63946"/>
@@ -54,7 +53,6 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 </table>
 
 <br/>
-</div>
 
 ## `02` Experience
 
@@ -224,11 +222,24 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 
 <br/>
 
+## `05` GitHub Stats
+
+<br/>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkargitcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=f5f0e8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargitcs&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&text_color=f5f0e8" />
+
+</div>
+
+<br/>
+
 ---
 
 <div align="center">
 
-### Open to internships, SDE roles, and hard problems.
+### Open to internships and backend / software development roles.
 *If you're building something interesting, let's talk.*
 
 <br/>
