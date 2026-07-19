@@ -71,15 +71,31 @@ Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
 
 <sub>◆ &nbsp; Architecting end-to-end e-commerce integrations &nbsp; ◆</sub>
 
-<br/><br/>
-
 </div>
 
-```
-  →  Built and shipped end-to-end e-commerce features across the live storefront
-  →  Optimized store workflows, page layout & performance-critical elements
-     for a faster, smoother customer journey
-```
+<br/>
+
+<table width="100%">
+<tr>
+<td width="36" align="center">🛒</td>
+<td>Built and shipped end-to-end e-commerce features across the live storefront</td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td>Optimized store workflows, page layout & performance-critical elements for a faster, smoother customer journey</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Liquid-1a1a1a?style=flat-square&logo=shopify&logoColor=e63946"/>
+<img src="https://img.shields.io/badge/Storefront_API-1a1a1a?style=flat-square&logo=shopify&logoColor=e63946"/>
+<img src="https://img.shields.io/badge/Theme_Customization-1a1a1a?style=flat-square&logo=shopify&logoColor=e63946"/>
+<img src="https://img.shields.io/badge/Performance-1a1a1a?style=flat-square&logo=speedtest&logoColor=e63946"/>
+
+</div>
 
 </td></tr>
 </table>
@@ -149,34 +165,58 @@ Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads.
 
 <br/>
 
-<div align="center">
-
-### Certifications
-
-<img src="https://img.shields.io/badge/OCI_2025-AI_Foundations_Associate-e63946?style=flat-square&labelColor=1a1a1a"/> <sub>Oct 2025</sub>
-<br/>
-<img src="https://img.shields.io/badge/React.js-Course_Completion-e63946?style=flat-square&labelColor=1a1a1a"/> <sub>Jul 2025</sub>
-<br/>
-<img src="https://img.shields.io/badge/Tata_Group-Cybersecurity_&_IAM-e63946?style=flat-square&labelColor=1a1a1a"/> <sub>Apr 2025</sub>
-
-</div>
+## `04` Certifications
 
 <br/>
-
-## `04` GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkargitcs&background=0d0d0d&border=1a1a1a&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=f5f0e8&dates=888888&currStreakNum=f5f0e8&sideNums=f5f0e8&hide_border=false" width="100%"/>
+<table width="640">
+<tr>
+<td width="60" align="center">☁️</td>
+<td>
 
-<br/><br/>
+**OCI 2025 AI Foundations Associate** &nbsp; <sub>Oracle · Oct 2025</sub>
+<br/><sub>CNNs, RNNs, LSTMs & OCI Generative AI services</sub>
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=omkargitcs&custom_title=My%20Github%20Stats&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" />
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=omkargitcs&langs_count=6&hide=Vim,HTML&theme=dark&hide_border=true" />
+</td>
+<td width="130" align="center">
 
-<br/><br/>
+[![View](https://img.shields.io/badge/Credential-e63946?style=flat-square&labelColor=1a1a1a)](https://lnkd.in/dpjiuN55)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkargitcs&theme=github_dark" width="100%" />
+</td>
+</tr>
+<tr><td colspan="3"><hr/></td></tr>
+<tr>
+<td align="center">⚛️</td>
+<td>
+
+**React.js — Course Completion** &nbsp; <sub>Scaler · Jul 2025</sub>
+<br/><sub>Component architecture, hooks & state management</sub>
+
+</td>
+<td align="center">
+
+[![View](https://img.shields.io/badge/Credential-e63946?style=flat-square&labelColor=1a1a1a)](https://moonshot.scaler.com/s/li/t-mrEst-Cp)
+
+</td>
+</tr>
+<tr><td colspan="3"><hr/></td></tr>
+<tr>
+<td align="center">🔐</td>
+<td>
+
+**Cybersecurity & IAM Engagement** &nbsp; <sub>Tata Group · Apr 2025</sub>
+<br/><sub>Access controls & identity governance systems</sub>
+
+</td>
+<td align="center">
+
+[![View](https://img.shields.io/badge/Credential-e63946?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/posts/omkar-bhalsing-7aa44a2b4_cybersecurity-iam-tata)
+
+</td>
+</tr>
+</table>
 
 </div>
 
