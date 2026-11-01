@@ -1,255 +1,73 @@
-<div align="center">
+# Omkar Bhalsing
 
-<h1>OMKAR BHALSING</h1>
+Computer science undergraduate at SVKM's Mithibai College, Mumbai (GPA 8.93).
 
-<code>Computer Science Undergrad  |  SVKM's Mithibai College, Mumbai  |  GPA 8.93</code>
+I build full-stack products end to end: the React interface, the Node and Express API, and the database underneath. My recent work centres on access control, real-time updates and Shopify storefronts.
 
-<br/><br/>
-
-<i>Full-stack developer who ships. I go from Figma-less idea to deployed product —<br/>
-React on the front, Node/Express underneath, and whatever database the problem calls for.<br/>
-Lately: IAM systems, real-time sync, and Shopify storefronts.</i>
-
-<br/><br/>
-
-<a href="https://omkar-portfolio-cyan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-omkar--portfolio--cyan.vercel.app-e63946?style=flat-square&logo=vercel&logoColor=white&labelColor=1a1a1a"/></a>
-<a href="https://linkedin.com/in/omkar-bhalsing-7aa44a2b4"><img src="https://img.shields.io/badge/LINKEDIN-Connect-e63946?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a1a"/></a>
-<a href="mailto:bhalsingom04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-bhalsingom04%40gmail.com-e63946?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a1a"/></a>
-
-</div>
-
-<br/>
-
-## `01` Tech Stack
-<div align=center>
-<table>
-<tr><td width="130"><b>Languages</b></td><td>
-<img src="https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/HTML5/CSS3-1a1a1a?style=flat-square&logo=html5&logoColor=e63946"/>
-</td></tr>
-<tr><td><b>Frameworks</b></td><td>
-<img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Express.js-1a1a1a?style=flat-square&logo=express&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=e63946"/>
-</td></tr>
-<tr><td><b>Data & Infra</b></td><td>
-<img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Prisma-1a1a1a?style=flat-square&logo=prisma&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/JWT_/_IAM-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=e63946"/>
-</td></tr>
-</table>
-
-<br/>
-</div>
-
-## `02` Experience
-
-<br/>
-
-<div align="center">
-
-<table width="640">
-<tr><td>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SHOPIFY-Developer_Intern-e63946?style=for-the-badge&logo=shopify&logoColor=white&labelColor=1a1a1a"/>
-
-<h3>Scentivia Perfumes</h3>
-
-<sub>◆ &nbsp; Architecting end-to-end e-commerce integrations &nbsp; ◆</sub>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="36" align="center">🛒</td>
-<td>Built and shipped end-to-end e-commerce features across the live storefront</td>
-</tr>
-<tr>
-<td align="center">⚡</td>
-<td>Optimized store workflows, page layout & performance-critical elements for a faster, smoother customer journey</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Liquid-1a1a1a?style=flat-square&logo=shopify&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Storefront_API-1a1a1a?style=flat-square&logo=shopify&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Theme_Customization-1a1a1a?style=flat-square&logo=shopify&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Performance-1a1a1a?style=flat-square&logo=speedtest&logoColor=e63946"/>
-
-</div>
-
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
-## `03` Projects
-
-<br/>
-
-<div align="center">
-
-<table width="640">
-<tr><td>
-
-<div align="center">
-
-### ◆ CampusShare
-
-<img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/Tailwind-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/JWT-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=e63946"/>
-
-</div>
-
-Resource-sharing platform for 100+ academic files, with a custom JWT + Express middleware IAM layer for role-based access. Cloudinary-powered thumbnailing cut file delivery time by **40%**.
-
-<div align="center">
-
-[**→ View Repo**](https://github.com/omkargitcs/campus-share)
-
-</div>
-
-</td></tr>
-</table>
-
-<br/>
-
-<table width="640">
-<tr><td>
-
-<div align="center">
-
-### ◆ TokenCare
-
-<img src="https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/NoSQL-1a1a1a?style=flat-square&logo=mongodb&logoColor=e63946"/>
-<img src="https://img.shields.io/badge/EmailJS-1a1a1a?style=flat-square&logoColor=e63946"/>
-
-</div>
-
-Denormalized NoSQL schema cutting multi-node latency by **95%** with O(1) reads. Email-based 2FA with OTP hit **100%** verified sign-ups in a 14-user pilot; Flutter Streams keep patient-doctor sync sub-second.
-
-<div align="center">
-
-[**→ View Repo**](https://github.com/omkargitcs/TokenCare)
-
-</div>
-
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
-## `04` Certifications
-
-<br/>
-
-<div align="center">
-
-<table width="640">
-<tr>
-<td width="60" align="center">☁️</td>
-<td>
-
-**OCI 2025 AI Foundations Associate** &nbsp; <sub>Oracle · Oct 2025</sub>
-<br/><sub>CNNs, RNNs, LSTMs & OCI Generative AI services</sub>
-
-</td>
-<td width="130" align="center">
-
-[![View](https://img.shields.io/badge/Credential-e63946?style=flat-square&labelColor=1a1a1a)](https://lnkd.in/dpjiuN55)
-
-</td>
-</tr>
-<tr><td colspan="3"><hr/></td></tr>
-<tr>
-<td align="center">⚛️</td>
-<td>
-
-**React.js — Course Completion** &nbsp; <sub>Scaler · Jul 2025</sub>
-<br/><sub>Component architecture, hooks & state management</sub>
-
-</td>
-<td align="center">
-
-[![View](https://img.shields.io/badge/Credential-e63946?style=flat-square&labelColor=1a1a1a)](https://moonshot.scaler.com/s/li/t-mrEst-Cp)
-
-</td>
-</tr>
-<tr><td colspan="3"><hr/></td></tr>
-<tr>
-<td align="center">🔐</td>
-<td>
-
-**Cybersecurity & IAM Engagement** &nbsp; <sub>Tata Group · Apr 2025</sub>
-<br/><sub>Access controls & identity governance systems</sub>
-
-</td>
-<td align="center">
-
-[![View](https://img.shields.io/badge/Credential-e63946?style=flat-square&labelColor=1a1a1a)](https://www.linkedin.com/posts/omkar-bhalsing-7aa44a2b4_cybersecurity-iam-tata)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## `05` Git Analytics & Performance
-
-<br/>
-
-<div align="center">
-
-<!-- Real-time Contribution and Language Dashboards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkargitcs&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=f5f0e8&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkargitcs&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=e63946&text_color=f5f0e8" />
-
-<br/><br/>
-
-<!-- Interactive Continuous Streak Engine -->
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=omkargitcs&theme=dark&background=0d0d0d&ring=e63946&fire=e63946&currStreakNum=f5f0e8&sideNums=f5f0e8&sideLabels=f5f0e8&dates=a3a3a3&hide_border=true" />
-
-<br/><br/>
-
-<!-- Real-time Visitor Matrix Tracker -->
-<img src="https://komarev.com/ghpvc/?username=omkargitcs&color=e63946&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
-
-<br/>
+[Portfolio](https://omkar-portfolio-cyan.vercel.app/) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/omkar-bhalsing-7aa44a2b4) &nbsp;|&nbsp; [Email](mailto:bhalsingom04@gmail.com)
 
 ---
-<div align=center>
-<a href="mailto:bhalsingom04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Reach_Out-e63946?style=for-the-badge&labelColor=1a1a1a"/></a>
-<a href="https://linkedin.com/in/omkar-bhalsing-7aa44a2b4"><img src="https://img.shields.io/badge/LINKEDIN-Connect-e63946?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"/></a>
-<a href="https://omkar-portfolio-cyan.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-View-e63946?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a1a"/></a>
 
-<br/><br/>
+## Projects
 
-</div>
-</div>
+### SeatDrop: ticket booking that never sells a seat twice
+A booking platform for movies and live events with a real-time seat map, a 5-minute seat hold and server-side checkout.
+
+- In a load test, **50 users race for the same seat: exactly one succeeds, 49 are rejected, and there are no double bookings.**
+- Seat holds are atomic in Redis (one Lua script claims all requested seats or none). A partial unique index in PostgreSQL rejects a double booking even if a hold expires at the worst moment.
+- Seats update live for every viewer over Server-Sent Events. Checkout uses idempotency keys, so a retried payment is never charged twice.
+
+**Stack:** React 19, Node.js, Express 5, PostgreSQL, Redis, JWT &nbsp;|&nbsp; [Repository](https://github.com/omkargitcs/seatdrop)
+
+### CampusShare: a private notes library for college classes
+A platform where students share notes, books and past papers, publicly or privately inside a class team.
+
+- Three roles (student, teacher, admin) with permissions enforced on the server and re-checked against the database on every request.
+- Teachers create class teams with invite codes and review student uploads before classmates can see them. Users get in-app notifications for approvals and flags.
+- Files stay private and open through short-lived signed links. Uploads are checked for a real PDF signature, and sign-in and uploads are rate limited.
+
+**Stack:** React, Vite, Tailwind CSS, Node.js, Express 5, PostgreSQL, Prisma, AWS S3, JWT &nbsp;|&nbsp; [Repository](https://github.com/omkargitcs/campus-share)
+
+### TokenCare: keeping patients and doctors in sync
+A Flutter app built around a denormalized NoSQL data model.
+
+- The schema design cut multi-node read latency by **95%** and gives O(1) reads.
+- Email-based two-factor sign-in with OTP reached **100% verified sign-ups** in a 14-user pilot.
+- Flutter Streams keep patient and doctor views in sync in under a second.
+
+**Stack:** Flutter, NoSQL, EmailJS &nbsp;|&nbsp; [Repository](https://github.com/omkargitcs/TokenCare)
+
+---
+
+## Experience
+
+### Developer Intern, Scentivia Perfumes (Shopify)
+- Built and shipped e-commerce features on the live storefront.
+- Improved store workflows, page layout and performance-critical elements for a faster customer journey.
+
+**Tools:** Liquid, Storefront API, theme customization
+
+---
+
+## Skills
+
+| | |
+| --- | --- |
+| **Languages** | JavaScript, Python, Java, C++, SQL, HTML and CSS |
+| **Frontend** | React, Tailwind CSS, Flutter |
+| **Backend** | Node.js, Express, REST APIs, JWT authentication and role-based access control |
+| **Data and tools** | PostgreSQL, MySQL, Redis, Firebase, Prisma, AWS S3, Git |
+
+---
+
+## Certifications
+
+- **OCI 2025 AI Foundations Associate**, Oracle, October 2025. Neural network architectures and OCI generative AI services. [Credential](https://lnkd.in/dpjiuN55)
+- **React.js course completion**, Scaler, July 2025. Component architecture, hooks and state management. [Credential](https://moonshot.scaler.com/s/li/t-mrEst-Cp)
+- **Cybersecurity and IAM engagement**, Tata Group, April 2025. Access controls and identity governance. [Credential](https://www.linkedin.com/posts/omkar-bhalsing-7aa44a2b4_cybersecurity-iam-tata)
+
+---
+
+## Get in touch
+
+I'm happy to talk about internships, projects or anything I've built. The quickest way is [email](mailto:bhalsingom04@gmail.com) or [LinkedIn](https://linkedin.com/in/omkar-bhalsing-7aa44a2b4).
